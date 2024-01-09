@@ -1,0 +1,43 @@
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+
+.imageWrapp {
+    height: 852px;
+    width: 1280px;
+    margin-top: 100px;
+    
+}
+.rasm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.laund {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -75px;
+    width: 584px;
+    height: 75px;
+    background-color: white;
+    color: black;
+}
+.laund h1 {
+    color: black;
+}
+
+.Wewant {
+    color: black;
+}
